@@ -24,6 +24,12 @@ Langkah-langkah upload project ke github
     fungsi ini digunakan untuk update brench individu dari main
 3. setelah itu melakukan commit dengan cara pergi ke menu source control lalu tambahkan pesan commit lalu commit
     ![image](https://github.com/AlfianFR1/PerpustakaanProject/assets/138290764/0e97800c-2412-491b-ad8b-8f47e05fb15c)
-
+    lalu klik sync changes
+4. setelah dirasa benar maka memindahkan semua updatean dari branch individu ke branch utama dengan cara pergi ke github repo perpustakaanprojcet. klik yang dilingkari
+    ![image](https://github.com/AlfianFR1/PerpustakaanProject/assets/138290764/1cd509d3-366b-41d4-bf9d-691f6e184ee9)
+5.kemudian klik view pull request
+6. dan kemudian klik marge pull request
+    ![image](https://github.com/AlfianFR1/PerpustakaanProject/assets/138290764/bc004618-822d-460c-a050-d149d7ce3511)
+7. SELESAI
     
    
