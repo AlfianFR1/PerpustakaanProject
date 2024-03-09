@@ -4,5 +4,6 @@ LANGKAH-LANGKAH PENGGUNAAN
 
 1. download git https://git-scm.com/downloads
 2. Copy path 
-    ![alt text](https://github.com/AlfianFR1/PerpustakaanProject/tree/alfian/readme/1.png?raw=true)
+    ![1](https://github.com/AlfianFR1/PerpustakaanProject/assets/138290764/2225baef-5d5a-48df-ac51-347a93a3af22)
+
    
